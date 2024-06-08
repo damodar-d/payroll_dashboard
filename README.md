@@ -1,3 +1,6 @@
+## Django port => 8000 [CORS enables for frontend]
+## React Port => 3000 
+
 ## API Endpoints
   ### api/  [Public Endpoints]
   
